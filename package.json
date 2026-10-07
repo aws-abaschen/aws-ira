@@ -11,6 +11,6 @@
   "devDependencies": {
     "@iconify-json/logos": "1.2.14",
     "jsdom": "30.1.1",
-    "mermaid": "12.0.0"
+    "mermaid": "12.1.0"
   }
 }
